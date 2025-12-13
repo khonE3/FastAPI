@@ -1,0 +1,10 @@
+# Python-generated files
+my_fastapi/__pycache__/
+my_fastapi/*.py[oc]
+my_fastapi/build/
+my_fastapi/dist/
+my_fastapi/wheels/
+my_fastapi/*.egg-info
+
+# Virtual environments
+my_fastapi/.venv
