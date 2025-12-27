@@ -10,3 +10,9 @@ uv run uvicorn src.app:app --reload
 CRUD
 uv run uvicorn src.crud:app --reload
 
+Status Code
+1xx: Informational
+2xx: Success (เช่น 200 OK, 201 Created)
+3xx: Redirection
+4xx: Client Error (เช่น 400 Bad Request, 404 Not Found)
+5xx: Server Error (เช่น 500 Internal Server Error)
