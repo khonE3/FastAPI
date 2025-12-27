@@ -43,3 +43,6 @@ htmlcov/
 # FastAPI
 *.db
 *.sqlite
+
+# Notes
+Day1_Note.md
