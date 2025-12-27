@@ -1,5 +1,5 @@
 def main():
-    print("Hello from my-fastapi!")
+    print("Hello บักเวฟ from my-fastapi!")
 
 
 if __name__ == "__main__":
