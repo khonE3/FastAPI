@@ -1,0 +1,12 @@
+Swagger UI
+http://127.0.0.1:8000/docs
+
+ReDoc
+http://127.0.0.1:8000/redoc
+
+app
+uv run uvicorn src.app:app --reload
+
+CRUD
+uv run uvicorn src.crud:app --reload
+

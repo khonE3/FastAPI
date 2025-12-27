@@ -34,7 +34,7 @@ async def scalar_html():
 # สร้าง Method GET ที่เส้นทาง "/"
 @app.get("/")
 def read_root():
-    return {"message": "Hello, World from FastAPI!"}
+    return {"message": "Hello BakE3 Wave from FastAPI!"}
 
 
 @app.get("/about")
